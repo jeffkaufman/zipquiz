@@ -10,7 +10,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>zipquiz</servlet-name>
-        <url-pattern>/zipquiz</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
